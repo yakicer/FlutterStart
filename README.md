@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Still in Progress... 
+
+I am learning as much as i can.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
